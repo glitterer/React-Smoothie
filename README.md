@@ -2,5 +2,7 @@
 
 책을 따라서 REACT 공부를 해보는 취지로 시작
 
-* **2021-09-02: 1일차**<br/> - [NVM](https://github.com/nvm-sh/nvm)을 통해서 node version을 Windows에 깔고 공부 시작 (p.1~90 jest까지 시도)
+* **2021-09-02: 1일차**<br/> - [NVM](https://github.com/nvm-sh/nvm)을 통해서 node version을 Windows에 깔고 공부 시작 (p.1~90 jest까지 시도)<br/>
+(cf) ["Something is already running on port 3000."에 대한 처리](https://stackoverflow.com/questions/39322089/node-js-port-3000-already-in-use-but-it-actually-isnt) : ```npx kill-port 3000```
+
 * **2021-09-03 : 2일차**<br/> - jest 시도 마무리<br/> - 4장 건너뛰고, 5장 시작<br/> 
