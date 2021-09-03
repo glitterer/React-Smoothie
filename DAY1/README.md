@@ -1,6 +1,6 @@
-스무디 한 잔 마시면 끝내는 리액스 + TDD
+# 스무디 한 잔 마시면 끝내는 리액스 + TDD
 
-공부 DAY 1
+## DAY1 Study
 
 가장 기본적인 create-react-app을 시도했을 때의 상태
 
