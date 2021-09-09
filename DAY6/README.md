@@ -18,3 +18,12 @@
 * **(6)ch6-todo-list-ToDoItem 부모컴포넌트로부터**<br/>
 : p.143-144: 공통 컴포넌트로 만든 ToDoItem 컴포넌트를 부모 컴포넌트로부터 데이터를 받을 수 있도록 수정
 ![(6)ch6-todo-list-ToDoItem 부모컴포넌트로부터](https://user-images.githubusercontent.com/50728605/132688615-67581aab-8b2b-4ddd-8d49-d9091fe532d6.gif)
+
+* **(7)ch6-todo-list-State_추가버튼 수정**<br/>
+: p.144-146: useState, set함수를 활용하여 State를 사용하여 동적인 데이터를 다루기 위해 App컴포넌트를 수정<br.>  
+==>  데이터를 입력하고 추가버튼을 눌렀을 때, 경고창의 값이 변경된다.
+![useState 추가버튼 수정](https://user-images.githubusercontent.com/50728605/132695987-9aa649d1-a028-4def-a2b6-2d5b25d94ee3.gif)
+
+* **(8)ch6-todo-list-최종본**<br/>
+: p.146-154: 할 일 리스트 완성 (상당히 많은 수정과 코드의 변화가 있으니 책을 잘 보고 공부해볼 것!!!
+![할일리스트 완성](https://user-images.githubusercontent.com/50728605/132696011-bc78efbe-a620-475f-a034-6bbce17331b3.gif)
