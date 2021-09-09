@@ -1,1 +1,1 @@
-##Day6 - props & state
+## Day6 Study - props & state
