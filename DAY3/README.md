@@ -9,5 +9,5 @@
 * **ch5-my-app-style_AppLink 수정:** .App-link 클래스를 styled-components로 변경
 
 ***
-**공부/파일 수정 순서<br/>**
+**공부/파일 순서<br/>**
 : AppLogo 컴포넌트 사용_AppLogo회전X --> AppLogo 컴포넌트 사용_AppLogo회전O --> keyframes --> AppLink 수정
